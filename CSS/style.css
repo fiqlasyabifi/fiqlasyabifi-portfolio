@@ -191,11 +191,6 @@ header .fa-bars {
   flex: 1 1 25rem;
 }
 
-.icons-container .icons img {
-  height: 5rem;
-  margin-right: 2rem;
-}
-
 .icons-container .icons h3 {
   color: #333;
   padding-bottom: 0.5rem;
