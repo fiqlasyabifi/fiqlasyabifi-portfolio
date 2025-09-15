@@ -321,17 +321,6 @@ header .fa-bars {
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
 }
 
-.experience .box-container .box .image {
-  position: relative;
-  text-align: center;
-  padding-top: 2rem;
-  overflow: hidden;
-}
-
-.experience .box-container .box .image img {
-  height: 15rem;
-}
-
 .experience .box-container .box .fa-quote-right {
   position: absolute;
   top: 3rem;
